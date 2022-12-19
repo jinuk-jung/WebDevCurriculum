@@ -5,16 +5,10 @@
 * 해당 문서는 Knowre의 컬리큘럼을 기반으로 수정된 문서임을 밝힙니다.
 
 
-## 머리말
-
-* [머리말](./PREFACE.md)
-
-
 ## 목차
 
 <details><summary>펼치기</summary>
   <p>
-
   * [Quest 00. 형상관리 시스템](./Quest00)
   * [Quest 01. HTML과 웹의 기초](./Quest01)
   * [Quest 02. CSS의 기초와 응용](./Quest02)
