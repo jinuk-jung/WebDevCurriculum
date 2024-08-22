@@ -7,9 +7,7 @@
 
 ## 목차
 
-<details><summary>펼치기</summary>
-  <p>
-  * [Quest 00. 형상관리 시스템](./Quest00)
+* Quest 00. 형상관리 시스템
   * [Quest 01. HTML과 웹의 기초](./Quest01)
   * [Quest 02. CSS의 기초와 응용](./Quest02)
   * [Quest 03. 자바스크립트와 DOM](./Quest03)
@@ -36,8 +34,6 @@
     * [Quest 19-B. 서버 아키텍쳐 패턴](./Quest19-B)
   * [Quest 20. 세상 밖으로](./Quest20)
 
-  </p>
-</details>
 
 
 ## 커리큘럼을 진행하실 때...
